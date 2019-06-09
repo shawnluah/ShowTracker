@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ShowTracker</string>
+    <string name="movie_name">Name</string>
+    <string name="date">Date</string>
+    <string name="genre">Genre</string>
+    <string name="language">Language</string>
+
+    <string-array name="genre_array">
+        <item>Romance</item>
+        <item>Action</item>
+        <item>Horror</item>
+    </string-array>
+
+    <string-array name="language_array">
+        <item>English</item>
+        <item>Chinese</item>
+        <item>Malay</item>
+    </string-array>
+</resources>
